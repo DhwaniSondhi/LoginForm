@@ -17,7 +17,6 @@
 <link rel="stylesheet" href="assets/css/login.css">
 </head>
 <body>
-	<main>
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-sm-6 login-section-wrapper">
